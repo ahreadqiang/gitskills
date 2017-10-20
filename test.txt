@@ -1,2 +1,6 @@
 Git is a free software
+<<<<<<< HEAD
 re1-dev
+=======
+re2 modified
+>>>>>>> 9ecb4319969dec1c71048ad1f0e6930a627702e9
